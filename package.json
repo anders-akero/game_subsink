@@ -1,0 +1,31 @@
+{
+  "name": "Sub_Sink",
+  "version": "0.0.1",
+  "description": " A game where you try to sink other players submarines, while avoiding being hit yourself",
+  "main": "app.js",
+  "dependencies": {
+    "gith": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anders-akero/game_subsink.git"
+  },
+  "keywords": [
+    "sinksub",
+    "subsink",
+    "submarine",
+    "uboat",
+    "sink",
+    "aakero",
+    "akero"
+  ],
+  "author": "Anders Akero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anders-akero/game_subsink/issues"
+  }
+}
