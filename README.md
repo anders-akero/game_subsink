@@ -1,8 +1,8 @@
 # game_subsink
 
-Requires npm and nodejs
-NPM Version: 
-NodeJS Version: 
+<h1>Requirement</h1>
+NPM Version: 1.4.21
+NodeJS Version: 0.10.29
 
 <h1>How To</h1>
 <h2>Start application</h2>
